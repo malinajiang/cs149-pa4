@@ -4,6 +4,7 @@ import org.apache.spark.SparkContext._
 import org.apache.spark.rdd.RDD
 import WikiUtils._
 import org.apache.spark.storage.StorageLevel._
+import org.apache.spark.HashPartitioner
 
 object PageRank {
   val D = 0.85  // Damping factor in PageRank
@@ -22,13 +23,11 @@ object PageRank {
     val sc = new SparkContext(conf)
 
     val articles = loadArticles(sc, file)
-
-    println(articles.partitions.size)
-    println("hello")
-
     val numArticles = articles.count
 
     val links = articles.map(a => (a.title, a.links.distinct.filter(b => b != a.title)))
+    links.partitionBy(new HashPartitioner(240))
+
     var ranks = articles.map(a => (a.title, 1.0 / numArticles))
 
     links.persist(MEMORY_AND_DISK)

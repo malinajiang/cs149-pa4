@@ -4,7 +4,7 @@ output mode:
 0 -> single
 output directories:
 1 items
-output dir -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes
+output dir -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes
 compile options:
 0 items
 javac options:
@@ -20,47 +20,46 @@ name hashing:
 0 -> true
 products:
 27 items
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anon$1.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$1$$anonfun$apply$1.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$1.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$2.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$7.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$8.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$3$$anonfun$apply$2.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$3.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$4.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$5$$anonfun$apply$3.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$5.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$6.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$2.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/TopLinked$$anonfun$1.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/TopLinked$$anonfun$2.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/TopLinked$$anonfun$3.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/TopLinked$$anonfun$4.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/TopLinked$.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/TopLinked.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/Article$.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/Article.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/WikiUtils$$anonfun$loadArticles$1.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/WikiUtils$.class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/WikiUtils.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anon$1.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$1$$anonfun$apply$1.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$1.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$2.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$7.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$8.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$3$$anonfun$apply$2.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$3.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$4.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$5$$anonfun$apply$3.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$5.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$6.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$2.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/TopLinked$$anonfun$1.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/TopLinked$$anonfun$2.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/TopLinked$$anonfun$3.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/TopLinked$$anonfun$4.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/TopLinked$.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/TopLinked.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/Article$.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/Article.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/WikiUtils$$anonfun$loadArticles$1.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/WikiUtils$.class
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/WikiUtils.class
 binary dependencies:
-12 items
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/evanlin/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/evanlin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> /Users/evanlin/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> /Users/evanlin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> /Users/evanlin/.ivy2/cache/com.databricks/spark-xml_2.11/jars/spark-xml_2.11-0.4.1.jar
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> /Users/evanlin/.ivy2/cache/org.apache.hadoop/hadoop-common/jars/hadoop-common-2.2.0.jar
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> /Users/evanlin/.ivy2/cache/org.apache.hadoop/hadoop-mapreduce-client-core/jars/hadoop-mapreduce-client-core-2.2.0.jar
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> /Users/evanlin/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> /Users/evanlin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+11 items
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/malinaj/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/malinaj/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> /Users/malinaj/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> /Users/malinaj/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> /Users/malinaj/.ivy2/cache/com.databricks/spark-xml_2.11/jars/spark-xml_2.11-0.4.1.jar
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> /Users/malinaj/.ivy2/cache/org.apache.hadoop/hadoop-common/jars/hadoop-common-2.2.0.jar
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> /Users/malinaj/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> /Users/malinaj/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -71,8 +70,8 @@ public inherited external dependencies:
 0 items
 member reference internal dependencies:
 2 items
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> /Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> /Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala
 member reference external dependencies:
 0 items
 inheritance internal dependencies:
@@ -81,459 +80,339 @@ inheritance external dependencies:
 0 items
 class names:
 27 items
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anon$1
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$1
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$1$$anonfun$apply$1
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$2
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$7
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$8
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$main$1
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$main$1$$anonfun$3
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$main$1$$anonfun$3$$anonfun$apply$2
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$main$1$$anonfun$4
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$main$1$$anonfun$5
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$main$1$$anonfun$5$$anonfun$apply$3
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$main$1$$anonfun$6
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$main$2
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> TopLinked
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> TopLinked$
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> TopLinked$$anonfun$1
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> TopLinked$$anonfun$2
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> TopLinked$$anonfun$3
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> TopLinked$$anonfun$4
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> Article
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> Article$
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> WikiUtils
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> WikiUtils$
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> WikiUtils$$anonfun$loadArticles$1
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anon$1
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$1
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$1$$anonfun$apply$1
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$2
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$7
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$8
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$main$1
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$main$1$$anonfun$3
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$main$1$$anonfun$3$$anonfun$apply$2
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$main$1$$anonfun$4
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$main$1$$anonfun$5
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$main$1$$anonfun$5$$anonfun$apply$3
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$main$1$$anonfun$6
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank$$anonfun$main$2
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> TopLinked
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> TopLinked$
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> TopLinked$$anonfun$1
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> TopLinked$$anonfun$2
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> TopLinked$$anonfun$3
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> TopLinked$$anonfun$4
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> Article
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> Article$
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> WikiUtils
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> WikiUtils$
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> WikiUtils$$anonfun$loadArticles$1
 used names:
-318 items
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> !=
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> $anon
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> *
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> +
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> -
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> /
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> <init>
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> A
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> A1
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> Any
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> AnyRef
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> Array
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> ArrayOps
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> Article
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> B
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> Boolean
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> CanBuildFrom
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> CharSequence
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> Class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> ClassTag
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> Coll
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> D
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> Double
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> Function1
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> Function2
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> Inclusive
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> Int
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> Iterable
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> K
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> Long
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> MEMORY_AND_DISK
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> Nothing
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> Object
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> Ordering
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> PairRDDFunctions
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> Partition
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> Predef
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> PrintStream
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> RDD
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> Range
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> RichDouble
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> RichInt
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> Seq
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> SparkConf
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> SparkContext
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> StorageLevel
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> String
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> System
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> T
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> T1
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> T2
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> That
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> TraversableOnce
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> Tuple2
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> U
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> Unit
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> V
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> W
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> WikiUtils
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> _$4
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> _$7
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> _1
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> _2
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> a
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> apache
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> apply
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> args
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> articles
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> b
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> canBuildFrom
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> collection
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> compare
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> conf
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> const
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> contains
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> count
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> distinct
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> doubleWrapper
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> err
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> exit
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> file
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> filter
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> flatMap
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> foreach
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> group
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> groupBy
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> groupedRanks
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> intWrapper
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> java
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> join
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> lang
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> length
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> links
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> loadArticles
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> map
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> master
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> materializeClassTag
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> math
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> nanoTime
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> noCategory
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> numArticles
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> org
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> package
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> partitions
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> persist
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> println
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> ranks
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> rdd
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> rddToPairRDDFunctions
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> reduce
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> refArrayOps
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> sc
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> scala
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> separateRanks
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> setAppName
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> setMaster
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> size
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> spark
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> stop
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> storage
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> t0
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> t1
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> title
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> to
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> top
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> topN
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> unary_!
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> updatedRanks
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> x
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> y
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> !=
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> <init>
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> >
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> Any
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> AnyRef
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> Array
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> Article
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> Boolean
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> Class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> ClassTag
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> Function1
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> Function2
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> Int
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> Iterable
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> K
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> Nothing
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> Object
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> Ordering
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> PairRDDFunctions
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> Predef
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> PrintStream
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> RDD
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> Seq
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> SparkConf
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> SparkContext
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> String
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> System
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> T
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> TopLinked
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> TraversableOnce
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> Tuple2
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> U
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> Unit
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> V
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> WikiUtils
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> _$7
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> _1
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> _2
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> a
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> apache
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> apply
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> args
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> articles
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> b
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> conf
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> counts
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> err
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> exit
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> file
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> flatMap
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> groupBy
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> java
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> lang
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> length
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> links
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> loadArticles
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> mapValues
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> master
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> materializeClassTag
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> math
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> max
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> org
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> package
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> println
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> rdd
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> rddToPairRDDFunctions
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> reduce
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> sc
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> scala
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> setAppName
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> setMaster
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> size
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> spark
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> stop
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> topArticle
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> !=
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> &&
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> +
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> +=
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> -
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> <init>
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> ==
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> A
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> AbstractFunction2
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> Any
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> AnyRef
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> ArrayBuffer
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> Article
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> Boolean
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> CharSequence
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> Class
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> ClassTag
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> Configuration
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> ENCODING_KEY
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> END_TAG_KEY
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> F
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> Function1
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> IndexOutOfBoundsException
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> InputFormat
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> Int
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> Iterator
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> K
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> LINK_REGEX
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> LongWritable
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> Matcher
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> None
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> Nothing
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> Object
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> Pattern
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> Predef
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> Product
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> RDD
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> START_TAG_KEY
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> ScalaRunTime
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> Seq
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> Serializable
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> Some
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> SparkContext
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> String
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> T
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> T0
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> T1
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> T2
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> TEXT_REGEX
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> TITLE_REGEX
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> Text
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> Tuple2
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> U
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> Unit
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> V
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> WikiUtils
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> XmlInputFormat
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> _$7
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> _2
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> _hashCode
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> _toString
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> apache
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> apply
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> asInstanceOf
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> collection
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> com
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> compile
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> conf
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> databricks
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> end
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> eq
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> find
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> found
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> group
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> hadoop
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> io
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> isInstanceOf
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> java
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> linkMatcher
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> links
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> map
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> matcher
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> materializeClassTag
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> mutable
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> nestingLevel
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> newAPIHadoopFile
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> org
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> package
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> pair
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> parseArticle
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> path
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> prevOpenPos
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> rdd
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> regex
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> runtime
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> sc
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> scala
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> set
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> spark
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> start
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> substring
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> text
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> textMatcher
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> title
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> titleMatcher
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> toLowerCase
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> toString
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> typedProductIterator
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> util
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> while$1
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> xml
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> ||
+238 items
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> !=
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> $anon
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> *
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> +
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> -
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> /
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> <init>
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> AnyRef
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> Array
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> ClassTag
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> D
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> Double
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> HashPartitioner
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> MEMORY_AND_DISK
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> Ordering
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> PageRank
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> Predef
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> RDD
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> Seq
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> SparkConf
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> SparkContext
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> StorageLevel
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> String
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> System
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> Tuple2
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> Unit
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> WikiUtils
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> _1
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> _2
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> a
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> apache
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> apply
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> args
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> articles
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> b
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> canBuildFrom
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> collection
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> compare
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> conf
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> const
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> contains
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> count
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> distinct
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> doubleWrapper
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> err
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> exit
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> file
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> filter
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> flatMap
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> foreach
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> group
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> groupBy
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> groupedRanks
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> intWrapper
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> java
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> join
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> lang
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> length
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> links
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> loadArticles
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> map
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> master
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> materializeClassTag
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> math
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> nanoTime
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> noCategory
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> numArticles
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> org
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> package
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> partitionBy
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> persist
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> println
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> ranks
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> rdd
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> rddToPairRDDFunctions
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> reduce
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> refArrayOps
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> sc
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> scala
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> separateRanks
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> setAppName
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> setMaster
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> size
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> spark
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> stop
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> storage
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> t0
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> t1
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> title
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> to
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> top
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> topN
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> unary_!
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> updatedRanks
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> x
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> y
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> !=
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> <init>
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> >
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> AnyRef
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> Array
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> ClassTag
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> Ordering
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> Predef
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> RDD
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> SparkConf
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> SparkContext
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> String
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> System
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> TopLinked
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> Unit
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> WikiUtils
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> _1
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> _2
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> a
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> apache
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> apply
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> args
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> articles
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> b
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> conf
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> counts
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> err
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> exit
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> file
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> flatMap
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> groupBy
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> java
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> lang
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> length
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> links
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> loadArticles
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> mapValues
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> master
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> materializeClassTag
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> math
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> max
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> org
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> package
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> println
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> rdd
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> rddToPairRDDFunctions
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> reduce
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> sc
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> scala
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> setAppName
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> setMaster
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> size
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> spark
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> stop
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> topArticle
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> !=
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> &&
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> +
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> +=
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> -
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> <init>
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> ==
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> AbstractFunction2
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> AnyRef
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> ArrayBuffer
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> Article
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> ClassTag
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> Configuration
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> ENCODING_KEY
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> END_TAG_KEY
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> LINK_REGEX
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> LongWritable
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> None
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> Pattern
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> Predef
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> Product
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> RDD
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> START_TAG_KEY
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> ScalaRunTime
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> Seq
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> Serializable
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> SparkContext
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> String
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> TEXT_REGEX
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> TITLE_REGEX
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> Text
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> WikiUtils
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> XmlInputFormat
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> _2
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> _hashCode
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> _toString
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> apache
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> apply
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> asInstanceOf
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> collection
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> com
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> compile
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> conf
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> databricks
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> end
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> eq
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> find
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> found
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> group
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> hadoop
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> io
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> isInstanceOf
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> java
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> linkMatcher
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> links
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> map
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> matcher
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> materializeClassTag
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> mutable
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> nestingLevel
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> newAPIHadoopFile
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> org
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> package
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> pair
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> parseArticle
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> path
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> prevOpenPos
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> rdd
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> regex
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> runtime
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> sc
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> scala
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> set
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> spark
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> start
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> substring
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> text
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> textMatcher
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> title
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> titleMatcher
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> toLowerCase
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> toString
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> typedProductIterator
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> util
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> while$1
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> xml
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> ||
 product stamps:
 27 items
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/Article$.class -> lastModified(1488457296000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/Article.class -> lastModified(1488457296000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anon$1.class -> lastModified(1488492538000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$1$$anonfun$apply$1.class -> lastModified(1488492538000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$1.class -> lastModified(1488492538000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$2.class -> lastModified(1488492538000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$7.class -> lastModified(1488492538000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$8.class -> lastModified(1488492538000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$3$$anonfun$apply$2.class -> lastModified(1488492538000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$3.class -> lastModified(1488492538000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$4.class -> lastModified(1488492538000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$5$$anonfun$apply$3.class -> lastModified(1488492538000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$5.class -> lastModified(1488492538000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$6.class -> lastModified(1488492538000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1.class -> lastModified(1488492538000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$2.class -> lastModified(1488492538000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank$.class -> lastModified(1488492538000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/PageRank.class -> lastModified(1488492538000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/TopLinked$$anonfun$1.class -> lastModified(1488457296000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/TopLinked$$anonfun$2.class -> lastModified(1488457296000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/TopLinked$$anonfun$3.class -> lastModified(1488457296000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/TopLinked$$anonfun$4.class -> lastModified(1488457296000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/TopLinked$.class -> lastModified(1488457296000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/TopLinked.class -> lastModified(1488457296000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/WikiUtils$$anonfun$loadArticles$1.class -> lastModified(1488457296000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/WikiUtils$.class -> lastModified(1488457296000)
-/Users/evanlin/Desktop/CS149/cs149-pa4/target/scala-2.11/classes/WikiUtils.class -> lastModified(1488457296000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/Article$.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/Article.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anon$1.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$1$$anonfun$apply$1.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$1.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$2.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$7.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$8.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$3$$anonfun$apply$2.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$3.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$4.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$5$$anonfun$apply$3.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$5.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$6.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$1.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$$anonfun$main$2.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank$.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/PageRank.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/TopLinked$$anonfun$1.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/TopLinked$$anonfun$2.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/TopLinked$$anonfun$3.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/TopLinked$$anonfun$4.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/TopLinked$.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/TopLinked.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/WikiUtils$$anonfun$loadArticles$1.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/WikiUtils$.class -> lastModified(1488493830000)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/target/scala-2.11/classes/WikiUtils.class -> lastModified(1488493830000)
 source stamps:
 3 items
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> hash(c6784a7e32b9ca562150a57b635330c4dc8cfc1f)
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> hash(1e53038f1cef5295bdc31baee00efe94f3e9108b)
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> hash(98f617421302ce13650738df8ca12c218527edef)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> hash(78be69b60af8f069b063e2a1a3152e46f437292d)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> hash(1e53038f1cef5295bdc31baee00efe94f3e9108b)
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> hash(98f617421302ce13650738df8ca12c218527edef)
 binary stamps:
-6 items
-/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1418879070000)
-/Users/evanlin/.ivy2/cache/com.databricks/spark-xml_2.11/jars/spark-xml_2.11-0.4.1.jar -> lastModified(1478426802000)
-/Users/evanlin/.ivy2/cache/org.apache.hadoop/hadoop-common/jars/hadoop-common-2.2.0.jar -> lastModified(1381127427000)
-/Users/evanlin/.ivy2/cache/org.apache.hadoop/hadoop-mapreduce-client-core/jars/hadoop-mapreduce-client-core-2.2.0.jar -> lastModified(1381127785000)
-/Users/evanlin/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
-/Users/evanlin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1423632360000)
+/Users/malinaj/.ivy2/cache/com.databricks/spark-xml_2.11/jars/spark-xml_2.11-0.4.1.jar -> lastModified(1478426802000)
+/Users/malinaj/.ivy2/cache/org.apache.hadoop/hadoop-common/jars/hadoop-common-2.2.0.jar -> lastModified(1381127427000)
+/Users/malinaj/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+/Users/malinaj/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
 class names:
-6 items
-/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
-/Users/evanlin/.ivy2/cache/com.databricks/spark-xml_2.11/jars/spark-xml_2.11-0.4.1.jar -> com.databricks.spark.xml.XmlInputFormat
-/Users/evanlin/.ivy2/cache/org.apache.hadoop/hadoop-common/jars/hadoop-common-2.2.0.jar -> org.apache.hadoop.io.LongWritable
-/Users/evanlin/.ivy2/cache/org.apache.hadoop/hadoop-mapreduce-client-core/jars/hadoop-mapreduce-client-core-2.2.0.jar -> org.apache.hadoop.mapreduce.InputFormat
-/Users/evanlin/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar -> org.apache.spark.rdd.PairRDDFunctions
-/Users/evanlin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.math.Ordering
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/malinaj/.ivy2/cache/com.databricks/spark-xml_2.11/jars/spark-xml_2.11-0.4.1.jar -> com.databricks.spark.xml.XmlInputFormat
+/Users/malinaj/.ivy2/cache/org.apache.hadoop/hadoop-common/jars/hadoop-common-2.2.0.jar -> org.apache.hadoop.conf.Configuration
+/Users/malinaj/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar -> org.apache.spark.rdd.RDD$
+/Users/malinaj/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Product
 internal apis:
 3 items
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwVRgvjgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwqjCVmXQABm5vdGlmeXNxAH4ADKbZIKl0AAR3YWl0c3EAfgAM1juzy3QADSRhc0luc3RhbmNlT2ZzcQB+AAway/1hdAAGZXF1YWxzc3EAfgAMgLyagXQADGFzSW5zdGFuY2VPZnNxAH4ADOXJPJN0AAxzeW5jaHJvbml6ZWRzcQB+AAztDJl3dAANJGlzSW5zdGFuY2VPZnNxAH4ADNvMzLx0AARtYWluc3EAfgAM4gESFHQACW5vdGlmeUFsbHNxAH4ADNfawxR0AAxpc0luc3RhbmNlT2ZzcQB+AAyRcDoddAACPT1zcQB+AAwOmOL6dAAFY2xvbmVzcQB+AAyYQzPkdAAIUGFnZVJhbmtzcQB+AAw1XvC+dAAIdG9TdHJpbmdzcQB+AAzB35DedAACIT1zcQB+AAzsZ3ZSdAAIZ2V0Q2xhc3NzcQB+AAx1rbG6dAACbmVzcQB+AAzmR5uHdAACZXFzcQB+AAwzEXH4dAABRHNxAH4ADJG6B/50AAIjI3NxAH4ADLuh/7t0AAhmaW5hbGl6ZXNxAH4ADI5O5H90AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AJ3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBDTAAJaW5oZXJpdGVkcQB+AENMAAdwYXJlbnRzcQB+AEN4cQB+AF9zcQB+AFp1cQB+AD4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AERxAH4ATXVxAH4ATgAAAABzcQB+AFAAcQB+AB11cQB+AFIAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXnQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF5zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHp1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBneHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBVdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBuWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBec3EAfgBtdAAFQXJyYXlxAH4Ac3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBtdAAGU3RyaW5nc3EAfgBxc3EAfgB0dXEAfgB3AAAAA3NxAH4AeXQABGphdmFzcQB+AHl0AARsYW5ncQB+AH5zcQB+AFp1cQB+AD4AAAAAc3EAfgBadXEAfgCSAAAAAnNxAH4AbXQABk9iamVjdHEAfgCWc3EAfgBtdAADQW55cQB+AHN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpERktJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABAL1VzZXJzL2V2YW5saW4vRGVza3RvcC9DUzE0OS9jczE0OS1wYTQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFMZ4Sn4yucpWIVCle2NTMMTcjPwf
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwkvOrwwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwrVi173QABm5vdGlmeXNxAH4ADFwOiI90AAlUb3BMaW5rZWRzcQB+AAzeTCHYdAAEd2FpdHNxAH4ADP3vkXB0AA0kYXNJbnN0YW5jZU9mc3EAfgAMRQdUT3QABmVxdWFsc3NxAH4ADLKEEV50AAxhc0luc3RhbmNlT2ZzcQB+AAwzLSdOdAAMc3luY2hyb25pemVkc3EAfgAMvc14/HQADSRpc0luc3RhbmNlT2ZzcQB+AAw3E1x+dAAEbWFpbnNxAH4ADAU6HRp0AAlub3RpZnlBbGxzcQB+AAyJGtu7dAAMaXNJbnN0YW5jZU9mc3EAfgAMrewZL3QAAj09c3EAfgAMxi/SwHQABWNsb25lc3EAfgAMzQWxXnQACHRvU3RyaW5nc3EAfgAMMk3vZnQAAiE9c3EAfgAMvWToenQACGdldENsYXNzc3EAfgAMGIuOqHQAAm5lc3EAfgAMQu8GKHQAAmVxc3EAfgAMUpeZ8XQAAiMjc3EAfgAMm90P03QACGZpbmFsaXplc3EAfgAMWgfnTXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgARdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXXNxAH4AWHVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AH3VxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBcdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGV4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AGxbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AFxzcQB+AGt0AAVBcnJheXEAfgBxdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGt0AAZTdHJpbmdzcQB+AG9zcQB+AHJ1cQB+AHUAAAADc3EAfgB3dAAEamF2YXNxAH4Ad3QABGxhbmdxAH4AfHNxAH4AWHVxAH4APAAAAABzcQB+AFh1cQB+AJAAAAACc3EAfgBrdAAGT2JqZWN0cQB+AJRzcQB+AGt0AANBbnlxAH4AcXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFajvfJaXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEAvVXNlcnMvZXZhbmxpbi9EZXNrdG9wL0NTMTQ5L2NzMTQ5LXBhNC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUHlMDjxzvUpW9wxuu4A7+lPPpEIs=
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwcYvGywAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAmc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwrrHZ5nQABm5vdGlmeXNxAH4ADKPfXAx0AAR3YWl0c3EAfgAMpYmYknQADmNvcHkkZGVmYXVsdCQyc3EAfgAMWSn9E3QADSRhc0luc3RhbmNlT2ZzcQB+AAyt+kzPdAAMcHJvZHVjdEFyaXR5c3EAfgAMt4VzpXQABmVxdWFsc3NxAH4ADHKbuOJ0AAxhc0luc3RhbmNlT2ZzcQB+AAxagRIxdAAMcGFyc2VBcnRpY2xlc3EAfgAMrIIol3QAClRFWFRfUkVHRVhzcQB+AAwJly87dAAMc3luY2hyb25pemVkc3EAfgAMkGvmNHQADSRpc0luc3RhbmNlT2ZzcQB+AAzu+I4hdAAKTElOS19SRUdFWHNxAH4ADOexAI10AAlXaWtpVXRpbHNzcQB+AAyeyLl8dAAIY2FuRXF1YWxzcQB+AAxrY+SKdAANcHJvZHVjdFByZWZpeHNxAH4ADJ8TP8d0AAlub3RpZnlBbGxzcQB+AAzvemIRdAALVElUTEVfUkVHRVhzcQB+AAyPlcrYdAAMaXNJbnN0YW5jZU9mc3EAfgAMUNSv6XQABWxpbmtzc3EAfgAMrKEWzHQAB0FydGljbGVzcQB+AAwyJEXHdAAGPGluaXQ+c3EAfgAMfNHBiXQADGxvYWRBcnRpY2xlc3NxAH4ADPTHB+p0AAI9PXNxAH4ADJFQO4x0AAVjbG9uZXNxAH4ADAu95Dt0AAYkaW5pdCRzcQB+AAw/b8qMdAAEY29weXNxAH4ADDNoYKZ0AAh0b1N0cmluZ3NxAH4ADKt0e1Z0AAIhPXNxAH4ADECrjbh0AAhnZXRDbGFzc3NxAH4ADP3Wrb50AAV0aXRsZXNxAH4ADM5RjlN0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADGz9DtZ0AAJuZXNxAH4ADAUmCSp0AAJlcXNxAH4ADKiyVk10AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAzHZHZfdAACIyNzcQB+AAy8a+V4dAAIZmluYWxpemVzcQB+AAyOSX3cdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAyWvIBIdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBjeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ADV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AenNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBjTAAJaW5oZXJpdGVkcQB+AGNMAAdwYXJlbnRzcQB+AGN4cQB+AH9zcQB+AHp1cQB+AF4AAAAAc3EAfgB6dXEAfgBeAAAAAHNxAH4AenVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AfnQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AfnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AmHNxAH4Ai3EAfgCOc3EAfgCPc3EAfgCSdXEAfgCVAAAAA3NxAH4Al3QABGphdmFzcQB+AJd0AAJpb3EAfgCcc3EAfgCLdAAHUHJvZHVjdHEAfgCRc3EAfgCLdAAGRXF1YWxzcQB+AJFzcQB+AIt0AAZPYmplY3RzcQB+AI9zcQB+AJJ1cQB+AJUAAAADc3EAfgCXcQB+AKJzcQB+AJd0AARsYW5ncQB+AJxzcQB+AIt0AANBbnlxAH4AkXNxAH4AYHEAfgBtdXEAfgBuAAAAAHNxAH4AcABxAH4AJ3VxAH4AcgAAAAB+cQB+AHR0AAZNb2R1bGV1cQB+AHgAAAAAc3EAfgB6cQB+AIBzcQB+AHpzcQB+AIJzcQB+AHp1cQB+AF4AAAAAc3EAfgB6dXEAfgBeAAAAAHNxAH4AenVxAH4AiQAAAAJzcQB+AItxAH4AqnNxAH4Aj3NxAH4AknVxAH4AlQAAAANzcQB+AJdxAH4AonNxAH4Al3EAfgCwcQB+AJxzcQB+AItxAH4AsnNxAH4Aj3NxAH4AknVxAH4AlQAAAAJzcQB+AJdxAH4AmnEAfgCcdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVqO98lpdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSY9hdCEwLOE2UHON+MoSwhhSft7w==
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBVGC+OAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKowlZl0AAZub3RpZnlzcQB+AAym2SCpdAAEd2FpdHNxAH4ADNY7s8t0AA0kYXNJbnN0YW5jZU9mc3EAfgAMGsv9YXQABmVxdWFsc3NxAH4ADIC8moF0AAxhc0luc3RhbmNlT2ZzcQB+AAzlyTyTdAAMc3luY2hyb25pemVkc3EAfgAM7QyZd3QADSRpc0luc3RhbmNlT2ZzcQB+AAzbzMy8dAAEbWFpbnNxAH4ADOIBEhR0AAlub3RpZnlBbGxzcQB+AAzX2sMUdAAMaXNJbnN0YW5jZU9mc3EAfgAMkXA6HXQAAj09c3EAfgAMDpji+nQABWNsb25lc3EAfgAMmEMz5HQACFBhZ2VSYW5rc3EAfgAMNV7wvnQACHRvU3RyaW5nc3EAfgAMwd+Q3nQAAiE9c3EAfgAM7Gd2UnQACGdldENsYXNzc3EAfgAMda2xunQAAm5lc3EAfgAM5kebh3QAAmVxc3EAfgAMMxFx+HQAAURzcQB+AAyRugf+dAACIyNzcQB+AAy7of+7dAAIZmluYWxpemVzcQB+AAyOTuR/dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ACd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBfc3EAfgBadXEAfgA+AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBEcQB+AE11cQB+AE4AAAAAc3EAfgBQAHEAfgAddXEAfgBSAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF50AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBec3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB6dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZ3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AblsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXnNxAH4AbXQABUFycmF5cQB+AHN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbXQABlN0cmluZ3NxAH4AcXNxAH4AdHVxAH4AdwAAAANzcQB+AHl0AARqYXZhc3EAfgB5dAAEbGFuZ3EAfgB+c3EAfgBadXEAfgA+AAAAAHNxAH4AWnVxAH4AkgAAAAJzcQB+AG10AAZPYmplY3RxAH4AlnNxAH4AbXQAA0FueXEAfgBzdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVqRJTnJdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATS9Vc2Vycy9tYWxpbmFqL0RvY3VtZW50cy8yMDE2LTIwMTcvQ1MgMTQ5L2NzMTQ5LXBhNC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUeL5ptgr48GmwY+KhoxUuRvQ3KS0=
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCS86vDAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cK1Yte90AAZub3RpZnlzcQB+AAxcDoiPdAAJVG9wTGlua2Vkc3EAfgAM3kwh2HQABHdhaXRzcQB+AAz975FwdAANJGFzSW5zdGFuY2VPZnNxAH4ADEUHVE90AAZlcXVhbHNzcQB+AAyyhBFedAAMYXNJbnN0YW5jZU9mc3EAfgAMMy0nTnQADHN5bmNocm9uaXplZHNxAH4ADL3NePx0AA0kaXNJbnN0YW5jZU9mc3EAfgAMNxNcfnQABG1haW5zcQB+AAwFOh0adAAJbm90aWZ5QWxsc3EAfgAMiRrbu3QADGlzSW5zdGFuY2VPZnNxAH4ADK3sGS90AAI9PXNxAH4ADMYv0sB0AAVjbG9uZXNxAH4ADM0FsV50AAh0b1N0cmluZ3NxAH4ADDJN72Z0AAIhPXNxAH4ADL1k6Hp0AAhnZXRDbGFzc3NxAH4ADBiLjqh0AAJuZXNxAH4ADELvBih0AAJlcXNxAH4ADFKXmfF0AAIjI3NxAH4ADJvdD9N0AAhmaW5hbGl6ZXNxAH4ADFoH5010AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AEXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF1zcQB+AFh1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB91cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AFxzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHh1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBleHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBsWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBcc3EAfgBrdAAFQXJyYXlxAH4AcXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBrdAAGU3RyaW5nc3EAfgBvc3EAfgBydXEAfgB1AAAAA3NxAH4Ad3QABGphdmFzcQB+AHd0AARsYW5ncQB+AHxzcQB+AFh1cQB+ADwAAAAAc3EAfgBYdXEAfgCQAAAAAnNxAH4Aa3QABk9iamVjdHEAfgCUc3EAfgBrdAADQW55cQB+AHF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpElOcl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABNL1VzZXJzL21hbGluYWovRG9jdW1lbnRzLzIwMTYtMjAxNy9DUyAxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQeUwOPHO9Slb3DG67gDv6U8+kQiw==
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBxi8bLAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cK6x2eZ0AAZub3RpZnlzcQB+AAyj31wMdAAEd2FpdHNxAH4ADKWJmJJ0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADFkp/RN0AA0kYXNJbnN0YW5jZU9mc3EAfgAMrfpMz3QADHByb2R1Y3RBcml0eXNxAH4ADLeFc6V0AAZlcXVhbHNzcQB+AAxym7jidAAMYXNJbnN0YW5jZU9mc3EAfgAMWoESMXQADHBhcnNlQXJ0aWNsZXNxAH4ADKyCKJd0AApURVhUX1JFR0VYc3EAfgAMCZcvO3QADHN5bmNocm9uaXplZHNxAH4ADJBr5jR0AA0kaXNJbnN0YW5jZU9mc3EAfgAM7viOIXQACkxJTktfUkVHRVhzcQB+AAznsQCNdAAJV2lraVV0aWxzc3EAfgAMnsi5fHQACGNhbkVxdWFsc3EAfgAMa2PkinQADXByb2R1Y3RQcmVmaXhzcQB+AAyfEz/HdAAJbm90aWZ5QWxsc3EAfgAM73piEXQAC1RJVExFX1JFR0VYc3EAfgAMj5XK2HQADGlzSW5zdGFuY2VPZnNxAH4ADFDUr+l0AAVsaW5rc3NxAH4ADKyhFsx0AAdBcnRpY2xlc3EAfgAMMiRFx3QABjxpbml0PnNxAH4ADHzRwYl0AAxsb2FkQXJ0aWNsZXNzcQB+AAz0xwfqdAACPT1zcQB+AAyRUDuMdAAFY2xvbmVzcQB+AAwLveQ7dAAGJGluaXQkc3EAfgAMP2/KjHQABGNvcHlzcQB+AAwzaGCmdAAIdG9TdHJpbmdzcQB+AAyrdHtWdAACIT1zcQB+AAxAq424dAAIZ2V0Q2xhc3NzcQB+AAz91q2+dAAFdGl0bGVzcQB+AAzOUY5TdAAOY29weSRkZWZhdWx0JDFzcQB+AAxs/Q7WdAACbmVzcQB+AAwFJgkqdAACZXFzcQB+AAyoslZNdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMx2R2X3QAAiMjc3EAfgAMvGvleHQACGZpbmFsaXplc3EAfgAMjkl93HQADnByb2R1Y3RFbGVtZW50c3EAfgAMlryASHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AY3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgA1dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AY0wACWluaGVyaXRlZHEAfgBjTAAHcGFyZW50c3EAfgBjeHEAfgB/c3EAfgB6dXEAfgBeAAAAAHNxAH4AenVxAH4AXgAAAABzcQB+AHp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AH50AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AH5zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJhzcQB+AItxAH4AjnNxAH4Aj3NxAH4AknVxAH4AlQAAAANzcQB+AJd0AARqYXZhc3EAfgCXdAACaW9xAH4AnHNxAH4Ai3QAB1Byb2R1Y3RxAH4AkXNxAH4Ai3QABkVxdWFsc3EAfgCRc3EAfgCLdAAGT2JqZWN0c3EAfgCPc3EAfgCSdXEAfgCVAAAAA3NxAH4Al3EAfgCic3EAfgCXdAAEbGFuZ3EAfgCcc3EAfgCLdAADQW55cQB+AJFzcQB+AGBxAH4AbXVxAH4AbgAAAABzcQB+AHAAcQB+ACd1cQB+AHIAAAAAfnEAfgB0dAAGTW9kdWxldXEAfgB4AAAAAHNxAH4AenEAfgCAc3EAfgB6c3EAfgCCc3EAfgB6dXEAfgBeAAAAAHNxAH4AenVxAH4AXgAAAABzcQB+AHp1cQB+AIkAAAACc3EAfgCLcQB+AKpzcQB+AI9zcQB+AJJ1cQB+AJUAAAADc3EAfgCXcQB+AKJzcQB+AJdxAH4AsHEAfgCcc3EAfgCLcQB+ALJzcQB+AI9zcQB+AJJ1cQB+AJUAAAACc3EAfgCXcQB+AJpxAH4AnHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFakSU5yXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AE0vVXNlcnMvbWFsaW5hai9Eb2N1bWVudHMvMjAxNi0yMDE3L0NTIDE0OS9jczE0OS1wYTQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJj2F0ITAs4TZQc434yhLCGFJ+3v
 external apis:
 0 items
 source infos:
 3 items
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/PageRank.scala -> 
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/PageRank.scala -> 
 AAAAAAAAAAA=
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/TopLinked.scala -> 
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/TopLinked.scala -> 
 AAAAAAAAAAA=
-/Users/evanlin/Desktop/CS149/cs149-pa4/src/main/scala/WikiUtils.scala -> 
+/Users/malinaj/Documents/2016-2017/CS 149/cs149-pa4/src/main/scala/WikiUtils.scala -> 
 AAAAAAAAAAA=
 compilations:
-39 items
-00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo4uJJB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo48BjJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo48zxx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo4/SYZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo5Db2p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo5Fk0t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo5T/8R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo5oko91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo5szYl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo51zup1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo53yZ51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo56Net1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo59ZsR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo73yWl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo8h4qR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo8ufaN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo8voMh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo80pph1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo84ko11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo9flgx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo9gC9t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo9mebF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo+FkzR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo+J+211cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo+KZbl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo+L9Jl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo+tl5h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo+4X3N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo/XiId1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo/cjwN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpA2wfx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpBy1cJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpB36JZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpCAZpF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-34 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpCC/o91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-35 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpELDiR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-36 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpEMAe91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-37 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpEMedp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-38 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpERktJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9ldmFubGluL0Rlc2t0b3AvQ1MxNDkvY3MxNDktcGE0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpElOcl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9tYWxpbmFqL0RvY3VtZW50cy8yMDE2LTIwMTcvQ1MgMTQ5L2NzMTQ5LXBhNC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==

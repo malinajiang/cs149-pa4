@@ -2,6 +2,7 @@ import org.apache.spark.SparkConf
 import org.apache.spark.SparkContext
 import org.apache.spark.SparkContext._
 import org.apache.spark.rdd.RDD
+import WikiUtils._
 
 object TopLinked {
   def main(args: Array[String]) {
@@ -16,8 +17,13 @@ object TopLinked {
     val conf = new SparkConf().setMaster(master).setAppName("TopLinked")
     val sc = new SparkContext(conf)
 
-    /** YOUR CODE HERE **/
-    // Feel free to import other Spark libraries as needed.
+    val articles = loadArticles(sc, file)
+    val links = articles.flatMap(a => a.links)
+    val counts = links.groupBy(a => a).mapValues(_.size)
+    val max = counts.reduce((a, b) => if (a._2 > b._2) a else b)
+    val topArticle = max._1
+
+    println(topArticle)
 
     sc.stop()
   }
